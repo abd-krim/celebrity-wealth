@@ -1,0 +1,3 @@
+<?php
+// Future database config
+?>
